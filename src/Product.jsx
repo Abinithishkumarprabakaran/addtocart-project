@@ -7,8 +7,6 @@ import { CartButton } from './CartButton';
 
 export function Product({product, count, setCount}) {
 
-  console.log(product)
-
   return (
     <div className="products">
       <Card sx={{ width: 250 }}>
