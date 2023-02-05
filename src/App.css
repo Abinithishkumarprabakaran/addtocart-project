@@ -1,0 +1,30 @@
+.product-name h2{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.product-price{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.cart-button{
+    display: flex;
+    justify-content: center;
+}
+
+.products{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.product-list{
+
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
